@@ -25,7 +25,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 👯 I’m looking to collaborate on ...React
 - 🤔 I’m looking for help with ...react.js
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ...https://adityakothari1.github.io//
+- 📫 How to reach me: ...https://ravindertakda.github.io/
 - 😄 Pronouns: ...Lazy Person
 - ⚡ Fun fact: ...Kabhi kabhi lagta hai apunichh bhagwan hai
 -->
